@@ -39,7 +39,7 @@ On completion, it will generate all the simulation tables and power curves used 
 ## Operating system
 
 The codes have been tested in both linux [Processor	: 32x Intel(R) Xeon(R) CPU E5-2665 0 @ 2.40GHz, 
-Memory: 65890MB (2777MB used), Operating System	: Ubuntu 16.04.3 LTS] and windows (Windows 10) system. 
+Memory: 65890MB, Operating System	: Ubuntu 16.04.3 LTS] and windows (Windows 10) system. 
 
 Note that, the parallel programing will only work in linux system. 
 
