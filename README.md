@@ -33,7 +33,7 @@ Install following R-libraries inside R-software in your computer/laptop:
 ### How to run the simulation codes
 
 Once you have installed all the libraries in your computer/laptop, run the `call_main_progs.r' in your Rstudio/R. 
-On completion, it will generate all the simulation tables and power curves used in the maunuscript. 
+On completion, it will generate all the simulation tables and power curves used in the manuscript. 
 
 
 ## Operating system
@@ -41,7 +41,7 @@ On completion, it will generate all the simulation tables and power curves used 
 The codes have been tested in both linux [Processor	: 32x Intel(R) Xeon(R) CPU E5-2665 0 @ 2.40GHz, 
 Memory: 65890MB, Operating System	: Ubuntu 16.04.3 LTS] and windows (Windows 10) system. 
 
-Note that, the parallel programing will only work in linux system. 
+Note that, the parallel programming will only work in the Linux system.
 
 
 ## Authors
