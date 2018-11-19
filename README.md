@@ -1,5 +1,7 @@
 
-# Shiny APP
+# Shiny APP:
+
+[Github](https://github.com/) 
 
 
 # Simulations for Non-Inferiority and Equivalence Tests in A Sequential Multiple-Assignment Randomized Trial (SMART)
