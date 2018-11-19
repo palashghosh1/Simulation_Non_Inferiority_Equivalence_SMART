@@ -1,4 +1,7 @@
 
+# Shiny APP
+
+
 # Simulations for Non-Inferiority and Equivalence Tests in A Sequential Multiple-Assignment Randomized Trial (SMART)
 
 This project will generate all the simulation tables and power curves used in the manuscript
