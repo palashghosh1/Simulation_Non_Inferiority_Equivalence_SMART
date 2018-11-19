@@ -1,7 +1,7 @@
 
 # Shiny APP:
 
-[Github](https://github.com/) 
+[Shiny Web App for Sample Size Calculation and Data Analysis](http://13.250.172.122/shiny/NI_EQ/) 
 
 
 # Simulations for Non-Inferiority and Equivalence Tests in A Sequential Multiple-Assignment Randomized Trial (SMART)
