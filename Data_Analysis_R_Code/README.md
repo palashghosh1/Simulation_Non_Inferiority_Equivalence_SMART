@@ -19,3 +19,8 @@ The four example simulated data sets are in csv format. All of them have precise
 3. simulated_SMART_data_Di_EQ.csv
 4. simulated_SMART_data_Sh_EQ.csv
 
+
+### How to run the data analysis:
+Intall the necessary library (dplyr, readr and gridExtra) in your computer. Put all the simulated data sets and two above r-codes in the same folder. Run the 'Simulated_data_analysis.r' from in R to get the results given in the manuscript.
+
+
