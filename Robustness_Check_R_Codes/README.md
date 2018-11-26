@@ -6,7 +6,7 @@ This project will check the robusness corresponding to the non-inferiority test 
 
 Copy all the codes in your computer/laptop. The different files are:
 
-1. main_prog_g1_g2_NI_sample_size_Robustness.r
+1. main_prog_NI_Robustness.r
 2. gen_data_robust_var_armwise.r
 3. test_power.r
 
@@ -24,7 +24,7 @@ Install following R-libraries inside R-software in your computer/laptop:
 
 ### How to run the simulation codes
 
-Once you have installed all the libraries in your computer/laptop, run the `main_prog_g1_g2_NI_sample_size_Robustness.r' in your Rstudio/R. On completion, it will generate estimated power under robustness check in Table 2 and 3 of the manuscript.
+Once you have installed all the libraries in your computer/laptop, run the main_prog_NI_Robustness.r in your Rstudio/R. On completion, it will generate estimated power under robustness check in Table 2 and 3 of the manuscript.
 
 
 
