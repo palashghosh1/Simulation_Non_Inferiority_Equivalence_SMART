@@ -21,7 +21,7 @@ The four example simulated data sets are in csv format. All of them have precise
 
 
 ### How to run the data analysis:
-Intall the necessary library (dplyr, readr and gridExtra) in your computer. Put all the simulated data sets and two above r-codes in the same folder. Run the 'Simulated_data_analysis.r' from in R to get the results given in the manuscript.
+Intall the necessary libraries (dplyr, readr and gridExtra) in your computer. Put all the simulated data sets and two above r-codes in the same folder. Run the 'Simulated_data_analysis.r' in R to get the results given in the manuscript.
 
 
 ### Data analysis for new data:
