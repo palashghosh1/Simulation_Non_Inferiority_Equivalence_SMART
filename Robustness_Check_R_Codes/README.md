@@ -24,7 +24,7 @@ Install following R-libraries inside R-software in your computer/laptop:
 
 ### How to run the simulation codes
 
-Once you have installed all the libraries in your computer/laptop, run the `main_prog_g1_g2_NI_sample_size_Robustness.r' in your Rstudio/R. On completion, it will generate all the simulation tables and power curves used in the manuscript. 
+Once you have installed all the libraries in your computer/laptop, run the `main_prog_g1_g2_NI_sample_size_Robustness.r' in your Rstudio/R. On completion, it will generate estimated power under robustness check in Table 2 and 3 of the manuscript.
 
 
 
