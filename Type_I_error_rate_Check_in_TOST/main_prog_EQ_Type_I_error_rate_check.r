@@ -4,7 +4,7 @@
 #   author: "Dr. Palash Ghosh"
 #   date: "29/07/2016"
 #   last modified: 26 November 2018
-#   Description: This program will check whether the estimated type-I error rate is controlled at 5% when there is the 
+#   Description: This program will check whether the estimated type-I error rate is controlled at 5% when the
 #                null hypothesis is true in equivalence test and alpha = 0.05
 
 
