@@ -21,7 +21,9 @@ Please read this document to use the [Shiny Web App for Data analysis tool and S
 In a non-inferiority testing, the goal is to establish that a new intervention (say AI #1, which is cost-effective or less burdensome) yields favorable outcomes that, when compared to another active control (say AI #3) intervention (i.e., an intervention approach with established evidence of effectiveness), is not below some pre-stated non-inferiority margin.
 
 1. Go to the [app.](http://13.250.172.122/shiny/NI_EQ/)
-2. 
+2. Set the significance level. The default value is 0.05.
+3. Set the desired power for the non-inferiority test. The default value is 0.80.
+4. Set the the standardized effect size. The Standardized Effect Size = (The standardized Non-Inferiority margin) - (The standardized mean difference)
 
 
 ## How to calculate the minmum sample size required for Equivalence test in SMART:
