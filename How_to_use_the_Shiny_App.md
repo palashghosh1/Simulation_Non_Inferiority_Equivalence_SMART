@@ -18,7 +18,10 @@ Please read this document to use the [Shiny Web App for Data analysis tool and S
 
 ## How to calculate the minmum sample size required for Non-Inferiority test in SMART:
 
+In a non-inferiority testing, the goal is to establish that a new intervention (say AI #1, which is cost-effective or less burdensome) yields favorable outcomes that, when compared to another active control (say AI #3) intervention (i.e., an intervention approach with established evidence of effectiveness), is not below some pre-stated non-inferiority margin.
+
 1. Go to the [app.](http://13.250.172.122/shiny/NI_EQ/)
+2. 
 
 
 ## How to calculate the minmum sample size required for Equivalence test in SMART:
