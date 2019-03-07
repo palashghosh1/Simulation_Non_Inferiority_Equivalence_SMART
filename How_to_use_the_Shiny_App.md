@@ -5,4 +5,4 @@ Please read this document to use the [Shiny Web App for Data analysis tool and S
 
 ## What can be done in the Shiny App:
 
-You can calculate the sample size for Non-Inferiority or Equivalence SMARTs
+You can calculate the minmum sample sizes required for Non-Inferiority or Equivalence SMARTs using the methodologies described in the paper by Palash Ghosh, Inbal Nahum-Shani, Bonnie Spring and Bibhas Chakraborty (2018). Non-Inferiority and Equivalence Tests in A Sequential Multiple-Assignment Randomized Trial (SMART). Submitted.
