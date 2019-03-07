@@ -12,6 +12,17 @@ Please read this document to use the [Shiny Web App for Data analysis tool and S
 3. Do the data analysis based on your completed SMART data.
 
 
+## How to calculate the minmum sample sizes required for Non-Inferiority test in SMART:
+
+
+## How to calculate the minmum sample sizes required for Equivalence test in SMART:
+
+
+## How to do the data analysis based on your completed SMART data:
+
+
+
+
 ## Reference:
 
 Palash Ghosh, Inbal Nahum-Shani, Bonnie Spring and Bibhas Chakraborty (2018). Non-Inferiority and Equivalence Tests in A Sequential Multiple-Assignment Randomized Trial (SMART). Submitted.
