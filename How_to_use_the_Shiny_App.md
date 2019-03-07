@@ -16,18 +16,31 @@ Please read this document to use the [Shiny Web App for Data analysis tool and S
 
 
 
-## How to calculate the minimum sample size required for Non-Inferiority test in SMART:
+## How to calculate the minimum sample size required for the Non-Inferiority test in SMART:
 
 In a non-inferiority testing, the goal is to establish that a new intervention (say AI #1, which is cost-effective or less burdensome) yields favorable outcomes that, when compared to another active control (say AI #3) intervention (i.e., an intervention approach with established evidence of effectiveness), is not below some pre-stated non-inferiority margin.
 
 1. Go to the [app.](http://13.250.172.122/shiny/NI_EQ/)
-2. Set the significance level. The default value is 0.05.
-3. Set the desired power for the non-inferiority test. The default value is 0.80.
-4. Set the standardized effect size. The default value is 0.3. The Standardized Effect Size = (The standardized Non-Inferiority margin) - (The standardized mean difference). See the 'Non-Inferiority Test' section of the paper given in reference for details.
-5. The app will automatically update to show the minimum sample size for your inputed values in the last line of the page. For selected default values of above input parameters, the estimated total sample size (includes all AIs) needed in the SMART is 138.
+2. Select: Sample Size for Non Inferiority
+3. Set the significance level. The default value is 0.05.
+4. Set the desired power for the non-inferiority test. The default value is 0.80.
+5. Set the standardized effect size. The default value is 0.3. The Standardized Effect Size = (The standardized Non-Inferiority margin) - (The standardized mean difference). See the 'Non-Inferiority Test' section of the paper given in reference for details.
+6. The app will automatically update to show the minimum sample size for your inputed values in the last line of the page. For selected default values of above input parameters, the estimated total sample size (includes all AIs) needed in the SMART is 138.
 
 
-## How to calculate the minimum sample size required for Equivalence test in SMART:
+## How to calculate the minimum sample size required for the Equivalence test in SMART:
+
+In an equivalence testing, the goal is to establish that a new intervention (say AI #1, which is cost-effective or less burdensome) yields favorable outcomes that, when compared to another active control (say AI #3) intervention (i.e., an intervention approach with established evidence of effectiveness), is neither superior nor inferior with respect to a pre-specified equivalence margin.
+
+
+1. Go to the [app.](http://13.250.172.122/shiny/NI_EQ/)
+2. Select: Sample Size for Equivalence
+3. Set the significance level. The default value is 0.05.
+4. Set the standardized equivalence margin. The default value is 0.25.
+5. Set the standardized effect size. The default value is 0.05. See the 'Equivalence Test' section of the paper given in reference for details.
+6. Set a sample size (any approximate value) to start. The default value is 300. 
+6. The app will automatically update to show the estimated power for selected sample size and the esitimated power for next 20 values of the sample sample size. For deafualt value, the app will show the power corresponding to sample sizes 300-320.
+
 
 
 ## How to do the data analysis based on your completed SMART data:
