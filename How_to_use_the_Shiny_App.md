@@ -46,9 +46,7 @@ In an equivalence testing, the goal is to establish that a new intervention (say
 
 ## How to do the data analysis based on your completed SMART data:
 
-![Test Image 1](
-        Simulation_Non_Inferiority_Equivalence_SMART/Schematic_diag.pdf
-      )
+![Test Image 1](Schematic_diag.pdf)
 
 
 ## Reference:
