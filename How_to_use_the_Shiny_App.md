@@ -46,6 +46,13 @@ In an equivalence testing, the goal is to establish that a new intervention (say
 
 ## How to do the data analysis based on your completed SMART data:
 
+See the diagram:
+
+![shematic_diagram_ppt](https://user-images.githubusercontent.com/43629013/54010544-273bff80-41aa-11e9-880f-4970b0de6653.jpg)
+
+
+The data analysis is based on the SMART depicted in the above schemetic diagram. 
+
 1. Go to the [app.](http://13.250.172.122/shiny/NI_EQ/)
 2. Select: Data Analysis
 3. Prepare your input data: The input data must be xls or xlsx format. It should contain precisely five variables (columns) with the specific variable names: sl, Trt.1, R, Trt.2, Y; where sl: denotes serial number (ex: 1,2,3,...), Trt.1: denotes first stage treatments (must be A or B), R: denotes responder status (must be 1 or 0, 1: responder, 0: non-responder), Trt.2: denotes second stage treatments (must be A, C or D if first stage treatment was A; or B, E or F if first stage treatment was B), Y: denotes the continuous primary outcome. 
@@ -61,8 +68,6 @@ In an equivalence testing, the goal is to establish that a new intervention (say
 11 See the end section "Data Analysis Results" for detailed output. The result includes the p-values and the decision to reject or not to reject the test. 
 
 
-
-![shematic_diagram_ppt](https://user-images.githubusercontent.com/43629013/54010544-273bff80-41aa-11e9-880f-4970b0de6653.jpg)
 
 ## Reference:
 
