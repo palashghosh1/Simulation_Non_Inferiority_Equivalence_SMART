@@ -52,7 +52,15 @@ In an equivalence testing, the goal is to establish that a new intervention (say
 4. Upload your data by clicking the "Browse" under the heading "Reading user's Data:". 
 5. Set the significance level. The default value is 0.05.
 4. Set the Non-Inferiority/Equivalence Margin. The default value is 2.5.
-5. 
+5. Choose  the test for Data Analysis: Non Inferiority or Equivalence.
+6. Choose the comparison type: Distinct-Path or Shared-Path.
+7. Choose the first stage treatment for New AI: A or B.
+8. Choose the second stage treatment for non-responders in New AI: C or D.
+9. The first stage treatment for Control AI: B. Automatically choosen based on your previous choices. 
+10. Choose the Second Stage Treatment for non-responders in Control AI: from (E or F) or from (C or D) based on previous choices.
+11 See the end section "Data Analysis Results" for detailed output. The result includes the p-values and the decision to reject or not to reject the test. 
+
+
 
 ![shematic_diagram_ppt](https://user-images.githubusercontent.com/43629013/54010544-273bff80-41aa-11e9-880f-4970b0de6653.jpg)
 
