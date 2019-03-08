@@ -46,7 +46,7 @@ In an equivalence testing, the goal is to establish that a new intervention (say
 
 ## How to do the data analysis based on your completed SMART data:
 
-![shematic_diagram_ppt](https://user-images.githubusercontent.com/43629013/54010544-273bff80-41aa-11e9-880f-4970b0de6653.jpg)
+![shematic_diagram_ppt](https://user-images.githubusercontent.com/43629013/54010544-273bff80-41aa-11e9-880f-4970b0de6653.jpg){:height="50%" width="50%"}
 
 ## Reference:
 
