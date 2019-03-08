@@ -64,7 +64,7 @@ The data analysis is based on the SMART depicted in the above schemetic diagram.
 8. Choose the second stage treatment for non-responders in New AI: C or D.
 9. The first stage treatment for Control AI: B. Automatically choosen based on your previous choices. 
 10. Choose the Second Stage Treatment for non-responders in Control AI: from (E or F) or from (C or D) based on previous choices.
-11 See the end section "Data Analysis Results" for detailed output. The result includes the p-values and the decision to reject or not to reject the test. 
+11. See the end section "Data Analysis Results" for detailed output. The result includes the p-values and the decision to reject or not to reject the test. 
 
 
 
