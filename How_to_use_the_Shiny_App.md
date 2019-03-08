@@ -46,6 +46,15 @@ In an equivalence testing, the goal is to establish that a new intervention (say
 
 ## How to do the data analysis based on your completed SMART data:
 
+1. Go to the [app.](http://13.250.172.122/shiny/NI_EQ/)
+2. Select: Data Analysis
+3. Prepare your input data: The input data must be xls or xlsx format. It should contain precisely five variables (columns) with the specific variable names: sl, Trt.1, R, Trt.2, Y; where sl: denotes serial number (ex: 1,2,3,...), Trt.1: denotes first stage treatments (must be A or B), R: denotes responder status (must be 1 or 0, 1: responder, 0: non-responder), Trt.2: denotes second stage treatments (must be C or D if first stage treatment was A; or E or F if first stage treatment was B), Y: denotes the continuous primary outcome. 
+3. Set the significance level. The default value is 0.05.
+4. Set the desired power for the non-inferiority test. The default value is 0.80.
+5. Set the standardized effect size. The default value is 0.3. The Standardized Effect Size = (The standardized Non-Inferiority margin) - (The standardized mean difference). See the 'Non-Inferiority Test' section of the paper given in reference for details.
+6. The app will automatically update to show the minimum sample size for your inputed values in the last line of the page. For selected default values of above input parameters, the estimated total sample size (includes all AIs) needed in the SMART is 138.
+
+
 ![shematic_diagram_ppt](https://user-images.githubusercontent.com/43629013/54010544-273bff80-41aa-11e9-880f-4970b0de6653.jpg)
 
 ## Reference:
