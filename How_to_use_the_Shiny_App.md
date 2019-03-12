@@ -7,9 +7,9 @@ Please read this document to use the [Shiny Web App for Data analysis tool and S
 
 ## What can be done in the Shiny App:
 
-1. Calculate the minimum sample size required for the Non-Inferiority test in SMART.
+1. Calculate the minimum sample size required for a Non-Inferiority test in SMART.
 
-2. Calculate the minimum sample size required for the Equivalence test in SMART. 
+2. Calculate the minimum sample size required for an Equivalence test in SMART. 
 
 3. Do the data analysis based on your completed SMART data.
 
