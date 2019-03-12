@@ -61,7 +61,7 @@ The data analysis is based on the SMART depicted in the above schematic diagram.
 7. Choose the test for Data Analysis: Non Inferiority or Equivalence.
 8. Choose the comparison type: Distinct-Path or Shared-Path.
 9. Choose the first stage treatment for New AI: A or B.
-10. Choose the second stage treatment for non-responders in New AI: C or D (if A in step 9); E or F (if B in step 9).
+10. Choose the second stage treatment for non-responders in New AI: C or D (if 'A' in step 9); E or F (if 'B' in step 9).
 11. The first stage treatment for Control AI: B. Automatically chosen based on your previous choices. 
 12. Choose the Second Stage Treatment for non-responders in Control AI: from (E or F) or from (C or D) based on previous choices.
 13. See the end section "Data Analysis Results" for detailed output. The result includes the p-values and the decision to reject or not to reject the test. 
