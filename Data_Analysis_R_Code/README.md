@@ -12,7 +12,7 @@ The four example simulated data sets are in csv format. All of them have precise
 1. Simulated_data_analysis.r
 2. test_power_data_analysis.r
 
-### Simuated Example data sets:
+### [Simuated Example data sets](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/tree/master/Data_Analysis_R_Code):
 
 1. simulated_SMART_data_Di_NI.csv
 2. simulated_SMART_data_Sh_NI.csv
