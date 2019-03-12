@@ -31,5 +31,10 @@ Intall the necessary libraries (dplyr, readr and gridExtra) in your computer. Pu
 3. Open the 'Simulated_data_analysis.r'.
 4. Inside the function 'function.data.analysis' in the above r-file, replace all the four simulated example datasets (in ".csv" format) by your new SMART data set name (in csv format).
 5. Go to the end of the r-file at 'calling the function.data.analysis function:'. 
+6. There are four examples given to call the 'function.data.analysis': 
+7. First one, "out.Di.NI": Non-Inferiority test to compare two distinct-path AIs. 
+8. Second one, "out.Sh.NI": Non-Inferiority test to compare two shared-path AIs. 
+9. Third one, "out.Di.EQ": Equivalence test to compare two distinct-path AIs. 
+10. Fourth one. "out.Sh.EQ": Equivalence test to compare two shared-path AIs. 
 
 
