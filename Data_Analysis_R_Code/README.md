@@ -36,5 +36,6 @@ Intall the necessary libraries (dplyr, readr and gridExtra) in your computer. Pu
 8. Second one, "out.Sh.NI": Non-Inferiority test to compare two shared-path AIs. 
 9. Third one, "out.Di.EQ": Equivalence test to compare two distinct-path AIs. 
 10. Fourth one. "out.Sh.EQ": Equivalence test to compare two shared-path AIs. 
+11. In each of the above examples, change the first two components of the function 'function.data.analysis', "theta" and "alpha" as you need. The default value of type-I error rate is alpha = 0.05. Change the third and fourth components treatment.seq and placebo.seq depending on your defined hypothesis of interest. 
 
 
