@@ -36,6 +36,8 @@ Intall the necessary libraries (dplyr, readr and gridExtra) in your computer. Pu
 8. Second one, "out.Sh.NI": Non-Inferiority test to compare two shared-path AIs. 
 9. Third one, "out.Di.EQ": Equivalence test to compare two distinct-path AIs. 
 10. Fourth one. "out.Sh.EQ": Equivalence test to compare two shared-path AIs. 
-11. In each of the above examples, change the first two components of the function 'function.data.analysis', "theta" and "alpha" as you need. The default value of type-I error rate is alpha = 0.05. Change the third and fourth components treatment.seq and placebo.seq depending on your defined hypothesis of interest. Note that, treatment.seq = c("A", "C") implies the first stage intervention is "A", if responder the patient will continue with "A" at the second stage otherwise switch to intervention "C" (as a non-responder). 
+11. In each of the above examples, change the first two components of the function 'function.data.analysis', "theta" and "alpha" as you need. The default value of type-I error rate is alpha = 0.05. Change the third and fourth components treatment.seq and placebo.seq depending on your defined hypothesis of interest. Note that, treatment.seq = c("A", "C") implies the first stage intervention is "A", if responder the patient will continue with "A" at the second stage otherwise will switch to intervention "C" (as a non-responder). 
+12. Finally, run the r-file 'Simulated_data_analysis.r' in Rstudio/terminal.
+13. It will generate 'Results.pdf' which contains the test results. 
 
 
