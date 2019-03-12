@@ -24,7 +24,7 @@ The four example simulated data sets are in csv format. All of them have precise
 Intall the necessary libraries (dplyr, readr and gridExtra) in your computer. Put all the simulated data sets and two above r-codes in the same folder. Run the 'Simulated_data_analysis.r' in R to get the results given in the manuscript.
 
 
-### Data analysis for new data:
+## Data analysis for new data:
 
 Prepare your SMART data following the instruction given in the above Data Description. Modify the 'Simulated_data_analysis.r' accordingly with you new data file name and run the same.
 
