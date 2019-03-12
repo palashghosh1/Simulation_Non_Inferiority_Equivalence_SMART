@@ -1,6 +1,6 @@
 # Data Analysis for Non-Inferiority and Equivalence tests for SMART
 
-This program will read a SMART data set (with specific format and columns names) and then analyze the data set to compare two specific regimes in a non-inferiroity and/or equivalence tests. If you are not familier with the statistical software R, then please use the shiny app for your data analysis from ![HERE]{https://palash.shinyapps.io/NI_EQ/}
+This program will read a SMART data set (with specific format and columns names) and then analyze the data set to compare two specific regimes in a non-inferiroity and/or equivalence tests. If you are not familier with the statistical software R, then please use the shiny app for your data analysis from [HERE](https://palash.shinyapps.io/NI_EQ/)
 
 
 ## Data Description:
