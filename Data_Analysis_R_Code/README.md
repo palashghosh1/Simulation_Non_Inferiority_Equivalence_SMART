@@ -26,8 +26,8 @@ Intall the necessary libraries (dplyr, readr and gridExtra) in your computer. Pu
 
 ## Data analysis for new data:
 
-1. Prepare your SMART data following the instruction given in the above Data Description. 
-2. Open the 'Simulated_data_analysis.r' 
-3. 
+1. Prepare your SMART data following the instructions given in the above Data Description. 
+2. Open the 'Simulated_data_analysis.r'.
+3. Inside the function 'function.data.analysis' in the above r-file, replace all the four simulated example datasets by your new SMART data set name (in csv format).
 
 
