@@ -27,7 +27,7 @@ Intall the necessary libraries (dplyr, readr and gridExtra) in your computer. Pu
 ## Data analysis for new data:
 
 1. Prepare your SMART data following the instructions given in the above Data Description.
-2. Put the above two r-files (Simulated_data_analysis.r and test_power_data_analysis.r) and your new SMART data set in a same folder.
+2. Put the above two r-files (Simulated_data_analysis.r and test_power_data_analysis.r; [download here](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/tree/master/Data_Analysis_R_Code)) and your new SMART data set in a same folder.
 3. Open the 'Simulated_data_analysis.r'.
 4. Inside the function 'function.data.analysis' in the above r-file, replace all the four simulated example datasets (in ".csv" format) by your new SMART data set name (in csv format).
 5. Go to the end of the r-file at 'calling the function.data.analysis function:'. 
