@@ -25,7 +25,7 @@ In a non-inferiority testing, the goal is to establish that a new intervention (
 3. Set the significance level. The default value is 0.05.
 4. Set the desired power for the non-inferiority test. The default value is 0.80.
 5. Set the standardized effect size. The default value is 0.3. The Standardized Effect Size = (The standardized Non-Inferiority margin) - (The standardized mean difference). See the 'Non-Inferiority Test' section of the paper given in reference for details.
-6. The app will automatically update to show the minimum sample size for your inputted values in the last line of the page. For selected default values of above input parameters, the estimated total sample size (includes all AIs) needed in the SMART is 138.
+6. The app will automatically update to show the minimum sample size based on the inputted values in the last line of the page. For selected default values of above input parameters, the estimated total sample size (includes all AIs) needed in the SMART is 138.
 
 
 ## How to calculate the minimum sample size required for the Equivalence test in SMART:
