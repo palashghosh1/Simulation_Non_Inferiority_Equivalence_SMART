@@ -41,7 +41,7 @@ In an equivalence testing, the goal is to establish that a new intervention (say
 6. Set a sample size (any approximate value) to start. The default value is 300. 
 7. The app will automatically update to show the estimated power for the selected sample size and the estimated powers for next 20 values of the sample size. For the default value, the app will show the powers corresponding to sample sizes 300-320.
 8. Choose the sample size which shows the power that you are targetting. For example, if you want to achieve 80% power then choose a sample size that gives at least 0.80 power.
-9. If there is no power close to 0.8, then repeat steps 6-8 with a different sample size (increase or decrease accordingly).
+9. If there is no power close to 0.80, then repeat steps 6-8 with a different sample size (increase or decrease accordingly).
 
 
 ## How to do the data analysis based on your completed SMART data:
