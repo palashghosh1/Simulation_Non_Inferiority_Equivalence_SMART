@@ -1,6 +1,6 @@
 # Data Analysis for Non-Inferiority and Equivalence tests in a SMART
 
-This [R-program](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/tree/master/Data_Analysis_R_Code) will read a SMART data set (with specific format and columns names) and then analyze the data set to compare two specific regimes in a non-inferiroity and/or equivalence tests. If you are not familier with the statistical software R, then please use the shiny app for your data analysis from [HERE](https://palash.shinyapps.io/NI_EQ/). The insitructions to use the shiny app are given [HERE](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/blob/master/How_to_use_the_Shiny_App.md).
+This [R-program](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/tree/master/Data_Analysis_R_Code) will read a SMART data set (with specific format and columns names) and then analyze the data set to compare two specific regimes in a non-inferiroity and/or equivalence tests. If you are not familier with the statistical software R, then please use the shiny app for your data analysis from [HERE](https://palash.shinyapps.io/NI_EQ/). The instruction to use the shiny app are given [HERE](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/blob/master/How_to_use_the_Shiny_App.md).
 
 
 ## Data Description:
