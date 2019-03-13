@@ -40,7 +40,7 @@ Install the necessary libraries (dplyr, readr and gridExtra) in your computer. P
 12. Finally, run the r-file 'Simulated_data_analysis.r' in Rstudio/terminal.
 13. It will generate 'Results.pdf' which contains the test results. 
 
-### Reference:
+## Reference:
 
 Palash Ghosh, Inbal Nahum-Shani, Bonnie Spring and Bibhas Chakraborty (2018). Non-Inferiority and Equivalence Tests in A Sequential Multiple-Assignment Randomized Trial (SMART). Submitted.
 
