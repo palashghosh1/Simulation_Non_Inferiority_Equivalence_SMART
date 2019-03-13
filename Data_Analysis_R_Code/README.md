@@ -12,7 +12,7 @@ The four examples of simulated data sets are in csv format. All of them have pre
 1. Simulated_data_analysis.r
 2. test_power_data_analysis.r
 
-### [Simuated Example data sets](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/tree/master/Data_Analysis_R_Code):
+### [Simulated Example data sets](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/tree/master/Data_Analysis_R_Code):
 
 1. simulated_SMART_data_Di_NI.csv
 2. simulated_SMART_data_Sh_NI.csv
@@ -21,7 +21,7 @@ The four examples of simulated data sets are in csv format. All of them have pre
 
 
 ### How to run the data analysis:
-Intall the necessary libraries (dplyr, readr and gridExtra) in your computer. Put all the simulated data sets and two above r-codes in the same folder. Run the 'Simulated_data_analysis.r' in R to get the results given in the manuscript.
+Install the necessary libraries (dplyr, readr and gridExtra) in your computer. Put all the simulated data sets and two above r-codes in the same folder. Run the 'Simulated_data_analysis.r' in R to get the results given in the manuscript.
 
 
 ## Data analysis for new data:
