@@ -5,7 +5,7 @@ This [R-program](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equi
 
 ## Data Description:
 
-The four example simulated data sets are in csv format. All of them have precisely five variables (columns) with the specific variable names: sl, Trt.1, R, Trt.2, Y; where sl: denotes serial number (ex: 1,2,3,...), Trt.1: denotes first stage treatments (must be A or B), R: denotes responder status (must be 1 or 0, 1: responder, 0: non-responder), Trt.2: denotes second stage treatments (must be C or D if first stage treatment was A; or E or F if first stage treatment was B; or E=C and F=D), Y: denotes the continuous primary outcome. 
+The four examples of simulated data sets are in csv format. All of them have precisely five variables (columns) with the specific variable names: sl, Trt.1, R, Trt.2, Y; where sl: denotes serial number (ex: 1,2,3,...), Trt.1: denotes first stage treatments (must be A or B), R: denotes responder status (must be 1 or 0, 1: responder, 0: non-responder), Trt.2: denotes second stage treatments (must be C or D if first stage treatment was A; or E or F if first stage treatment was B; or E=C and F=D), Y: denotes the continuous primary outcome. 
 
 ### [List of r-files](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/tree/master/Data_Analysis_R_Code): 
 
