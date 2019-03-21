@@ -21,11 +21,13 @@ Please read this document to use the [Shiny Web App for Data analysis tool and S
 In a non-inferiority testing, the goal is to establish that a new adaptive intervention (say AI #1, which may be cost-effective or less burdensome) yields favorable outcomes that, when compared to an active control (say AI #3) intervention (i.e., an intervention approach with established evidence of effectiveness), is not below some pre-specified non-inferiority margin.
 
 1. Go to the [app.](https://palash.shinyapps.io/NI_EQ/)
-2. Select: Sample Size for Non Inferiority
+2. Select: Sample Size for Non-Inferiority
 3. Set the significance level. The default value is 0.05.
 4. Set the desired power for the non-inferiority test. The default value is 0.80.
-5. Set the standardized effect size. The default value is 0.3. The Standardized Effect Size = (The standardized Non-Inferiority margin) - (The standardized mean difference). See the 'Non-Inferiority Test' section of the paper given in reference for details.
-6. The app will automatically update to show the minimum sample size based on the inputted values in the last line of the page. For selected default values of above input parameters, the estimated total sample size (includes all AIs) needed in the SMART is 138.
+5. Set the standardized non-inferiority margin. The default value is 0.5.
+6. Set the standardized mean difference. The default value is 0.2. 
+8. The Standardized Effect Size = (The standardized Non-Inferiority margin) - (The standardized mean difference). See the 'Non-Inferiority Test' section of the paper given in reference for details.
+8. The app will automatically update to show the minimum sample size based on the inputted values in the last line of the page. For selected default values of above input parameters, the estimated total sample size (includes all AIs) needed in the SMART is 138.
 
 
 ## How to calculate the minimum sample size required for an Equivalence test in a SMART?
@@ -37,7 +39,7 @@ In an equivalence testing, the goal is to establish that a new intervention (say
 2. Select: Sample Size for Equivalence
 3. Set the significance level. The default value is 0.05.
 4. Set the standardized equivalence margin. The default value is 0.25.
-5. Set the standardized effect size. The default value is 0.05. See the 'Equivalence Test' section of the paper given in reference for details.
+5. Set the standardized mean difference. The default value is 0.05. See the 'Equivalence Test' section of the paper given in reference for details.
 6. Set a sample size (any approximate value) to start. The default value is 300. 
 7. The app will automatically update to show the estimated power for the selected sample size and the estimated powers for next 20 values of the sample size. For the default value, the app will show the powers corresponding to sample sizes 300-320.
 8. Choose the sample size which shows the power that you are targetting. For example, if you want to achieve 80% power then choose a sample size that gives at least 0.80 power.
