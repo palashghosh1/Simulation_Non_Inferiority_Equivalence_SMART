@@ -21,14 +21,14 @@ The four examples of simulated data sets are in comma separated value (csv) form
 
 
 ### How to run the data analysis?:
-Install the necessary libraries (dplyr, readr and gridExtra) in your computer. Put all the simulated data sets and two above r-codes in the same folder. Run the 'Simulated_data_analysis.r' [(download here)](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/tree/master/Data_Analysis_R_Code) in R to get the results given in the manuscript.
+Install the necessary libraries (dplyr, readr and gridExtra) in your computer. Put all the simulated data sets and two above r-codes in the same folder. Run the 'Simulated_data_analysis.r' [(download here)](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/tree/master/Data_Analysis_R_Code) in R to get the results given in the manuscript (Appendix A.7).
 
 
 ## Data analysis for new data:
 
 1. Prepare your SMART data following the instructions given in the above Data Description.
-2. Put the above two r-files (Simulated_data_analysis.r and test_power_data_analysis.r; [download here](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/tree/master/Data_Analysis_R_Code)) and your new SMART data set in the same folder of your laptop/desktop. 
-3. Open the 'Simulated_data_analysis.r'.
+2. Put the above two r-files (Simulated_data_analysis.r and test_power_data_analysis.r; [download here](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/tree/master/Data_Analysis_R_Code)) and your new SMART data set in the same folder of your computer. 
+3. Open the 'Simulated_data_analysis.r' file.
 4. Inside the function 'function.data.analysis' in the above r-file, replace all the four simulated example datasets (in ".csv" format) by your new SMART data set name (in csv format).
 5. Go to the end of the r-file at 'calling the function.data.analysis function:'. 
 6. There are four examples given to call the 'function.data.analysis': 
@@ -36,12 +36,12 @@ Install the necessary libraries (dplyr, readr and gridExtra) in your computer. P
 8. The second one, "out.Sh.NI": Non-Inferiority test to compare two shared-path AIs. 
 9. The third one, "out.Di.EQ": Equivalence test to compare two distinct-path AIs. 
 10. The fourth one. "out.Sh.EQ": Equivalence test to compare two shared-path AIs. 
-11. In each of the above examples, change the first two components of the function 'function.data.analysis', "theta" and "alpha" as you need. The theta is the non-inferiority/equivalence margin. The default value of the type-I error rate is alpha = 0.05. Change the third and fourth components treatment.seq and placebo.seq depending on your defined hypothesis of interest. Note that, treatment.seq = c("A", "C") implies the first stage intervention is "A", if responder the patient will continue with "A" at the second stage otherwise will switch to intervention "C" (as a non-responder). 
+11. In each of the above examples, change the first two components of the function 'function.data.analysis', "theta" and "alpha" as you need. The theta is the non-inferiority/equivalence margin. The default value of the type-I error rate is alpha = 0.05. Change the third and fourth components treatment.seq and placebo.seq depending on your defined hypothesis of interest. Note that, treatment.seq = c("A", "C") implies the first stage intervention is "A", if responder the patient will continue with "A" at the second stage, otherwise will switch to intervention "C" (as a non-responder). 
 12. Finally, run the r-file 'Simulated_data_analysis.r' in Rstudio/terminal.
 13. It will generate 'Results.pdf' which contains the test results. 
 
 ## Reference:
 
-Palash Ghosh, Inbal Nahum-Shani, Bonnie Spring and Bibhas Chakraborty (2018). Non-Inferiority and Equivalence Tests in A Sequential Multiple-Assignment Randomized Trial (SMART). Submitted.
+Palash Ghosh, Inbal Nahum-Shani, Bonnie Spring and Bibhas Chakraborty (2019). Non-Inferiority and Equivalence Tests in A Sequential Multiple-Assignment Randomized Trial (SMART). Under Revision.
 
 
