@@ -21,7 +21,7 @@ The four examples of simulated data sets are in comma separated value (csv) form
 
 
 ### How to run the data analysis?:
-Install the necessary libraries (dplyr, readr and gridExtra) in your computer. Put all the simulated data sets and two above r-codes in the same folder. Run the 'Simulated_data_analysis.r' [(download here)](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/tree/master/Data_Analysis_R_Code)) in R to get the results given in the manuscript.
+Install the necessary libraries (dplyr, readr and gridExtra) in your computer. Put all the simulated data sets and two above r-codes in the same folder. Run the 'Simulated_data_analysis.r' [(download here)](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART/tree/master/Data_Analysis_R_Code) in R to get the results given in the manuscript.
 
 
 ## Data analysis for new data:
