@@ -1,7 +1,7 @@
 
 # Instruction to use the Shiny App:
 
-Please read this document to use the [Shiny Web App for Data analysis tool and Sample Size Calculator for Non-Inferiority and Equivalence tests in a SMART.](https://palash.shinyapps.io/NI_EQ/)
+Please read this document to use the [Shiny Web App for Data analysis tool and Sample Size Calculator for Non-Inferiority and Equivalence tests in a SMART.](https://palash.shinyapps.io/ni_eq_analysis/)
 
 
 
@@ -20,7 +20,7 @@ Please read this document to use the [Shiny Web App for Data analysis tool and S
 
 In a non-inferiority testing, the goal is to establish that a new adaptive intervention (say AI #1, which may be cost-effective or less burdensome) yields favorable outcomes that, when compared to an active control (say AI #3) intervention (i.e., an intervention approach with established evidence of effectiveness), is not below some pre-specified non-inferiority margin.
 
-1. Go to the [app.](https://palash.shinyapps.io/NI_EQ/)
+1. Go to the [app.](https://palash.shinyapps.io/ni_eq_analysis/)
 2. Select: Sample Size for Non-Inferiority
 3. Set the significance level. The default value is 0.05.
 4. Set the desired power for the non-inferiority test. The default value is 0.80.
@@ -35,7 +35,7 @@ In a non-inferiority testing, the goal is to establish that a new adaptive inter
 In an equivalence testing, the goal is to establish that a new intervention (say AI #1, which may be cost-effective or less burdensome) yields favorable outcomes that, when compared to an active control (say AI #3) intervention (i.e., an intervention approach with established evidence of effectiveness), is neither superior nor inferior with respect to a pre-specified equivalence margin.
 
 
-1. Go to the [app.](https://palash.shinyapps.io/NI_EQ/)
+1. Go to the [app.](https://palash.shinyapps.io/ni_eq_analysis/)
 2. Select: Sample Size for Equivalence
 3. Set the significance level. The default value is 0.05.
 4. Set the standardized equivalence margin. The default value is 0.25.
@@ -54,7 +54,7 @@ In an equivalence testing, the goal is to establish that a new intervention (say
 
 The data analysis is based on the SMART depicted in the above schematic diagram. 
 
-1. Go to the [app.](https://palash.shinyapps.io/NI_EQ/)
+1. Go to the [app.](https://palash.shinyapps.io/ni_eq_analysis/)
 2. Select: Data Analysis
 3. Prepare your input data: The input data must be in excel (xls or xlsx) format. It should contain precisely five variables (columns) with the specific variable names: sl, Trt.1, R, Trt.2, Y; where sl: denotes serial number (ex: 1,2,3,...), Trt.1: denotes first stage treatments (must be A or B), R: denotes responder status (must be 1 or 0; 1: responder, 0: non-responder), Trt.2: denotes second stage treatments (must be A, C or D if first stage treatment was A; or B, E or F if first stage treatment was B), Y: denotes the continuous primary outcome. 
 4. Upload your data by clicking the "Browse" under the heading "Reading user's Data:". 
