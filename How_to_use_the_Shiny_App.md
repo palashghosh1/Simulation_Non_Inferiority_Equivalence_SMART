@@ -5,7 +5,7 @@ Please read this document to use the [Shiny Web App for Data analysis tool and S
 
 
 
-## What can be done in the Shiny App:
+## What can you do using the Shiny App?:
 
 1. Calculate the minimum sample size required for a Non-Inferiority test in a SMART.
 
