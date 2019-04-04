@@ -5,7 +5,7 @@ This project will generate all the simulation tables and power curves used in th
 "Non-Inferiority and Equivalence Tests in A Sequential Multiple-Assignment Randomized Trial (SMART)" 
 authored by Palash Ghosh, Inbal Nahum-Shani, Bonnie Spring and Bibhas Chakraborty.
 
-## List of r-files:
+## List of r-files [(download here)](https://github.com/palashghosh1/Simulation_Non_Inferiority_Equivalence_SMART):
 
 Copy all the codes in your computer/laptop. The different files are:
 
